@@ -1,0 +1,8 @@
+/Users/simontu/Desktop/aaaaaa/6771/ass1/cmake-build-debug/CMakeFiles/catch2_main.dir
+/Users/simontu/Desktop/aaaaaa/6771/ass1/cmake-build-debug/CMakeFiles/word_ladder.dir
+/Users/simontu/Desktop/aaaaaa/6771/ass1/cmake-build-debug/CMakeFiles/debugging.dir
+/Users/simontu/Desktop/aaaaaa/6771/ass1/cmake-build-debug/CMakeFiles/word_ladder_test_exe.dir
+/Users/simontu/Desktop/aaaaaa/6771/ass1/cmake-build-debug/CMakeFiles/word_ladder_benchmark_exe.dir
+/Users/simontu/Desktop/aaaaaa/6771/ass1/cmake-build-debug/CMakeFiles/test.dir
+/Users/simontu/Desktop/aaaaaa/6771/ass1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/simontu/Desktop/aaaaaa/6771/ass1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

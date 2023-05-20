@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/Users/simontu/Desktop/UNSW/6771/ass3/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/simontu/Desktop/UNSW/6771/ass3/lib -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.5 -fcolor-diagnostics -Wall -Wextra -Werror -pedantic-errors -Wconversion -Wsign-conversion -Wdouble-promotion -Wcast-align -Wformat=2 -Wuninitialized -Wnull-dereference -Wnon-virtual-dtor -Woverloaded-virtual -Wdeprecated-copy-dtor -Wold-style-cast -Wno-self-assign-overloaded -Wno-self-move -Wsuggest-override -fstack-protector-strong -std=c++20 -o CMakeFiles/catch2_main.dir/lib/catch2_main.cpp.o -c /Users/simontu/Desktop/UNSW/6771/ass3/lib/catch2_main.cpp",
+  "file": "/Users/simontu/Desktop/UNSW/6771/ass3/lib/catch2_main.cpp"
+},
+{
+  "directory": "/Users/simontu/Desktop/UNSW/6771/ass3/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.5 -fcolor-diagnostics -Wall -Wextra -Werror -pedantic-errors -Wconversion -Wsign-conversion -Wdouble-promotion -Wcast-align -Wformat=2 -Wuninitialized -Wnull-dereference -Wnon-virtual-dtor -Woverloaded-virtual -Wdeprecated-copy-dtor -Wold-style-cast -Wno-self-assign-overloaded -Wno-self-move -Wsuggest-override -fstack-protector-strong -std=c++20 -o CMakeFiles/pipeline.dir/src/pipeline.cpp.o -c /Users/simontu/Desktop/UNSW/6771/ass3/src/pipeline.cpp",
+  "file": "/Users/simontu/Desktop/UNSW/6771/ass3/src/pipeline.cpp"
+},
+{
+  "directory": "/Users/simontu/Desktop/UNSW/6771/ass3/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.5 -fcolor-diagnostics -Wall -Wextra -Werror -pedantic-errors -Wconversion -Wsign-conversion -Wdouble-promotion -Wcast-align -Wformat=2 -Wuninitialized -Wnull-dereference -Wnon-virtual-dtor -Woverloaded-virtual -Wdeprecated-copy-dtor -Wold-style-cast -Wno-self-assign-overloaded -Wno-self-move -Wsuggest-override -fstack-protector-strong -std=c++20 -o CMakeFiles/client.dir/src/client.cpp.o -c /Users/simontu/Desktop/UNSW/6771/ass3/src/client.cpp",
+  "file": "/Users/simontu/Desktop/UNSW/6771/ass3/src/client.cpp"
+},
+{
+  "directory": "/Users/simontu/Desktop/UNSW/6771/ass3/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/simontu/Desktop/UNSW/6771/ass3/lib -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.5 -fcolor-diagnostics -Wall -Wextra -Werror -pedantic-errors -Wconversion -Wsign-conversion -Wdouble-promotion -Wcast-align -Wformat=2 -Wuninitialized -Wnull-dereference -Wnon-virtual-dtor -Woverloaded-virtual -Wdeprecated-copy-dtor -Wold-style-cast -Wno-self-assign-overloaded -Wno-self-move -Wsuggest-override -fstack-protector-strong -std=c++20 -o CMakeFiles/pipeline_test_exe.dir/src/pipeline.test.cpp.o -c /Users/simontu/Desktop/UNSW/6771/ass3/src/pipeline.test.cpp",
+  "file": "/Users/simontu/Desktop/UNSW/6771/ass3/src/pipeline.test.cpp"
+}
+]

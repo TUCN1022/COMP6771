@@ -1,0 +1,7 @@
+/Users/simontu/Desktop/UNSW/6771/ass3/cmake-build-debug/CMakeFiles/catch2_main.dir
+/Users/simontu/Desktop/UNSW/6771/ass3/cmake-build-debug/CMakeFiles/pipeline.dir
+/Users/simontu/Desktop/UNSW/6771/ass3/cmake-build-debug/CMakeFiles/client.dir
+/Users/simontu/Desktop/UNSW/6771/ass3/cmake-build-debug/CMakeFiles/pipeline_test_exe.dir
+/Users/simontu/Desktop/UNSW/6771/ass3/cmake-build-debug/CMakeFiles/test.dir
+/Users/simontu/Desktop/UNSW/6771/ass3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/simontu/Desktop/UNSW/6771/ass3/cmake-build-debug/CMakeFiles/rebuild_cache.dir

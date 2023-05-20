@@ -1,0 +1,6 @@
+/Users/simontu/Desktop/UNSW/6771/ass2/ass2/cmake-build-debug/CMakeFiles/catch2_main.dir
+/Users/simontu/Desktop/UNSW/6771/ass2/ass2/cmake-build-debug/CMakeFiles/filtered_string_view.dir
+/Users/simontu/Desktop/UNSW/6771/ass2/ass2/cmake-build-debug/CMakeFiles/filtered_string_view_test_exe.dir
+/Users/simontu/Desktop/UNSW/6771/ass2/ass2/cmake-build-debug/CMakeFiles/test.dir
+/Users/simontu/Desktop/UNSW/6771/ass2/ass2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/simontu/Desktop/UNSW/6771/ass2/ass2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

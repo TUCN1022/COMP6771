@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/Users/simontu/Desktop/UNSW/6771/ass2/ass2/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/simontu/Desktop/UNSW/6771/ass2/ass2/lib -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.5 -fcolor-diagnostics -Wall -Wextra -Werror -pedantic-errors -Wconversion -Wsign-conversion -Wdouble-promotion -Wcast-align -Wformat=2 -Wuninitialized -Wnull-dereference -Wnon-virtual-dtor -Woverloaded-virtual -Wdeprecated-copy-dtor -Wold-style-cast -Wsuggest-override -fstack-protector-strong -std=c++20 -o CMakeFiles/catch2_main.dir/lib/catch2_main.cpp.o -c /Users/simontu/Desktop/UNSW/6771/ass2/ass2/lib/catch2_main.cpp",
+  "file": "/Users/simontu/Desktop/UNSW/6771/ass2/ass2/lib/catch2_main.cpp"
+},
+{
+  "directory": "/Users/simontu/Desktop/UNSW/6771/ass2/ass2/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.5 -fcolor-diagnostics -Wall -Wextra -Werror -pedantic-errors -Wconversion -Wsign-conversion -Wdouble-promotion -Wcast-align -Wformat=2 -Wuninitialized -Wnull-dereference -Wnon-virtual-dtor -Woverloaded-virtual -Wdeprecated-copy-dtor -Wold-style-cast -Wsuggest-override -fstack-protector-strong -std=c++20 -o CMakeFiles/filtered_string_view.dir/src/filtered_string_view.cpp.o -c /Users/simontu/Desktop/UNSW/6771/ass2/ass2/src/filtered_string_view.cpp",
+  "file": "/Users/simontu/Desktop/UNSW/6771/ass2/ass2/src/filtered_string_view.cpp"
+},
+{
+  "directory": "/Users/simontu/Desktop/UNSW/6771/ass2/ass2/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/simontu/Desktop/UNSW/6771/ass2/ass2/lib -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.5 -fcolor-diagnostics -Wall -Wextra -Werror -pedantic-errors -Wconversion -Wsign-conversion -Wdouble-promotion -Wcast-align -Wformat=2 -Wuninitialized -Wnull-dereference -Wnon-virtual-dtor -Woverloaded-virtual -Wdeprecated-copy-dtor -Wold-style-cast -Wsuggest-override -fstack-protector-strong -std=c++20 -o CMakeFiles/filtered_string_view_test_exe.dir/src/filtered_string_view.test.cpp.o -c /Users/simontu/Desktop/UNSW/6771/ass2/ass2/src/filtered_string_view.test.cpp",
+  "file": "/Users/simontu/Desktop/UNSW/6771/ass2/ass2/src/filtered_string_view.test.cpp"
+}
+]
